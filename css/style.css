@@ -5,3 +5,25 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+/* GENERAL */
+.box{
+    background-color: #006CFA;
+    padding: 10px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+
+.inside-box{
+    background-color: #00E165;
+    padding: 10px;
+    border: 1px solid #006CFA;
+    text-align: center;
+    color: white;
+}
+
+#margin-bottom{
+    margin-bottom: 30px;
+}
